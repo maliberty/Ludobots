@@ -18,6 +18,8 @@ INSTALLATION INSTRUCTIONS:
 
 http://sourceforge.net/projects/opende/files/ODE/0.12/
 
+(If building from source be use to configure with --enable-double-precision)
+
 - Install it in your /Users/[yourUserName]/Downloads directory.
 
 
